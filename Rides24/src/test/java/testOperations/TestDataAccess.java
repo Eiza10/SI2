@@ -9,6 +9,7 @@ import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
 import configuration.ConfigXML;
+import domain.Car;
 import domain.Driver;
 import domain.Ride;
 
@@ -71,7 +72,7 @@ public class TestDataAccess {
 		Driver driver=null;
 			db.getTransaction().begin();
 			try {
-			    driver=new Driver(name,email);
+			    driver=new Driver(name,email, "pass");
 				db.persist(driver);
 				db.getTransaction().commit();
 			}
@@ -93,8 +94,8 @@ public class TestDataAccess {
 				try {
 					 driver = db.find(Driver.class, email);
 					if (driver==null)
-						driver=new Driver(name,email);
-				    driver.addRide(from, to, date, nPlaces, price);
+						driver=new Driver(name,email, "pass");
+				    driver.addRide(from, to, date, price, new Car("AA123456", 4, driver, true));
 					db.getTransaction().commit();
 					return driver;
 					

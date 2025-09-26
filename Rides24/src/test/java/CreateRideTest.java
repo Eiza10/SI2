@@ -15,6 +15,7 @@ import domain.Ride;
 import exceptions.RideAlreadyExistException;
 import exceptions.RideMustBeLaterThanTodayException;
 import testOperations.TestDataAccess;
+import domain.Car;
 import domain.Driver;
 
 public class CreateRideTest {
@@ -58,7 +59,7 @@ public class CreateRideTest {
 			
 			//invoke System Under Test (sut)  
 			sut.open();
-		    sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail);
+		    sut.createRide(rideFrom, rideTo, rideDate, 0, driverEmail, "AAA11111");
 			sut.close();
 			
 			fail();
@@ -110,7 +111,7 @@ public class CreateRideTest {
 			
 			//invoke System Under Test (sut)  
 			sut.open();
-			Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail);
+			Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, driverEmail, "AAA123456");
 			sut.close();
 			//verify the results
 			assertNotNull(ride);
@@ -174,7 +175,8 @@ public class CreateRideTest {
 				
 				//invoke System Under Test (sut)  
 				sut.open();
-				Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail);
+				
+				Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, driverEmail,"AA123456");
 				System.out.println("ride "+ride);
 
 				//verify the results
@@ -219,7 +221,7 @@ public class CreateRideTest {
 		try {
 			//invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail);
+			 ride=sut.createRide(rideFrom, rideTo, rideDate, 0, driverEmail, "AA123456");
 			sut.close();			
 			
 			//verify the results

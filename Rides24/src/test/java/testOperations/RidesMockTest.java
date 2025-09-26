@@ -9,6 +9,7 @@ import org.mockito.Mockito;
 
 import businessLogic.BLFacade;
 import configuration.UtilDate;
+import domain.Car;
 import domain.Driver;
 import domain.Ride;
 import gui.MainGUI;
@@ -34,11 +35,12 @@ public class RidesMockTest {
 
 	 resultDates.add(UtilDate.newDate(year,month, 23));
 	 resultDates.add(UtilDate.newDate(year,month, 26));
+	 Driver driver=new Driver("driver3@gmail.com","Test Driver", "123");
 
-
+	 
 	 List<Ride> resultRides = new ArrayList<Ride>();
-	 resultRides.add(new Ride("Donostia", "Madrid", UtilDate.newDate(2025, 8, 23),
-	5, 10, new Driver("Jon", "jon@gmail.com")));
+	 resultRides.add(new Ride(4,"Donostia", "Madrid", UtilDate.newDate(2025, 8, 23),
+	5, new Driver("Jon", "jon@gmail.com", "pass"), new Car("AA123456", 4, driver, true)));
 
 	 Mockito.when(
 	 appFacadeInterface.getThisMonthDatesWithRides(Mockito.eq("Donostia"),
@@ -47,7 +49,8 @@ public class RidesMockTest {
 	 Mockito.when(
 	 appFacadeInterface.getRides("Donostia", "Madrid", UtilDate.newDate(year,
 	month, 23))).thenReturn(resultRides);
-	MainGUI sut = new MainGUI(new Driver("Jon", "jon@gmail.com"));
+	 
+	MainGUI sut = new MainGUI();
 	sut.setBussinessLogic(appFacadeInterface);
 	try {
 	UIManager.setLookAndFeel("javax.swing.plaf.metal.MetalLookAndFeel");
