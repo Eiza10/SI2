@@ -1,0 +1,72 @@
+
+stestOperations.TestBusinessLogic#existRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Zq
+gC:/Users/Haritz/Desktop/UNI/4.urtea/SI2/SI2/Rides24/src/test/java/testOperations/TestBusinessLogic.java5 5("1*Û	
+16 6(ç
+ä
+6 6(#
+%0testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestãà
+6 6(
+
+%1void"%testOperations.TestDataAccess#open()V*A
+
+__unknown_file (%
+#
+%0testOperations.TestDataAccess2open()ç
+ä
+7 7(#
+%2testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestÅ˛
+7 7(;
+%3boolean"ptestOperations.TestDataAccess#existRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)Z*A
+
+__unknown_file (%
+#
+%2testOperations.TestDataAccess*7
+
+__unknown_file (
+
+emailjava.lang.String*6
+
+__unknown_file (
+
+fromjava.lang.String*4
+
+__unknown_file (
+
+tojava.lang.String*4
+
+__unknown_file (
+
+datejava.util.Date2QexistRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;)ç
+ä
+8 8(#
+%4testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestçä
+8 8(
+
+%5void"&testOperations.TestDataAccess#close()V*A
+
+__unknown_file (%
+#
+%4testOperations.TestDataAccess2close()"
+9 9(
+"":%
+5 5((
+emailjava.lang.String:$
+5) 5(5
+fromjava.lang.String:"
+56 5(@
+tojava.lang.String:"
+5A 5(J
+datejava.util.DateB$"
+ testOperations.TestBusinessLogicHX

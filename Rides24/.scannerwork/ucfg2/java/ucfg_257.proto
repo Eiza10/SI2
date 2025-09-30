@@ -1,0 +1,27 @@
+
+JdataAccess.DataAccess#getTravelerAlert(Ljava/lang/String;)Ljava/util/List;h
+\C:/Users/Haritz/Desktop/UNI/4.urtea/SI2/SI2/Rides24/src/main/java/dataAccess/DataAccess.javaû û($"1*õ
+1
+ü ü(N
+L
+
+† †(.
+tdomain.Traveler"__id*"
+
+__unknown_file (
+""ìê
+
+¢	 ¢(
+%0java.util.List"+domain.Traveler#getAlerts()Ljava/util/List;*2
+
+__unknown_file (
+
+tdomain.Traveler2getAlerts()"$
+
+¢ ¢(
+
+%0java.util.List:'
+
+û% û(1
+emailjava.lang.StringB
+dataAccess.DataAccessH

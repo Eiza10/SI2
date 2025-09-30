@@ -1,0 +1,98 @@
+
+ùtestOperations.TestBusinessLogic#addDriverWithRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IF)Ldomain/Driver;q
+gC:/Users/Haritz/Desktop/UNI/4.urtea/SI2/SI2/Rides24/src/test/java/testOperations/TestBusinessLogic.java. .(!"1*≥
+1/ /(ç
+ä
+/ /(#
+%0testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestãà
+/ /(
+
+%1void"%testOperations.TestDataAccess#open()V*A
+
+__unknown_file (%
+#
+%0testOperations.TestDataAccess2open()ç
+ä
+0 0(#
+%2testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestŒÀ
+0 0(]
+%3domain.Driver"ötestOperations.TestDataAccess#addDriverWithRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IF)Ldomain/Driver;*A
+
+__unknown_file (%
+#
+%2testOperations.TestDataAccess*7
+
+__unknown_file (
+
+emailjava.lang.String*6
+
+__unknown_file (
+
+namejava.lang.String*6
+
+__unknown_file (
+
+fromjava.lang.String*4
+
+__unknown_file (
+
+tojava.lang.String*4
+
+__unknown_file (
+
+datejava.util.Date*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2maddDriverWithRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IF)^
+\
+0 0(^
+driverdomain.Driver"__id*1
+
+__unknown_file (
+
+%3domain.Driverç
+ä
+1 1(#
+%4testOperations.TestDataAccess"__id*S
+
+__unknown_file (7*5"
+ testOperations.TestBusinessLogic"
+dbManagerTestçä
+1 1(
+
+%5void"&testOperations.TestDataAccess#close()V*A
+
+__unknown_file (%
+#
+%4testOperations.TestDataAccess2close()"%
+2 2(
+
+driverdomain.Driver:%
+." .(/
+emailjava.lang.String:$
+.0 .(<
+namejava.lang.String:$
+.= .(I
+fromjava.lang.String:"
+.J .(T
+tojava.lang.String:"
+.V .(`
+datejava.util.Date: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B$"
+ testOperations.TestBusinessLogicH

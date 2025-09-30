@@ -1,0 +1,27 @@
+
+OdataAccess.DataAccess#getDriverReservations(Ljava/lang/String;)Ljava/util/List;h
+\C:/Users/Haritz/Desktop/UNI/4.urtea/SI2/SI2/Rides24/src/main/java/dataAccess/DataAccess.javaõ õ(/"1*°
+1
+ú ú(L
+J
+
+ù ù(*
+ddomain.Driver"__id*"
+
+__unknown_file (
+""õò
+
+ü	 ü(
+%0java.util.List"/domain.Driver#getReservations()Ljava/util/List;*0
+
+__unknown_file (
+
+ddomain.Driver2getReservations()"$
+
+ü ü(
+
+%0java.util.List:'
+
+õ0 õ(<
+emailjava.lang.StringB
+dataAccess.DataAccessH
