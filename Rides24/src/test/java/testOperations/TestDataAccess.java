@@ -115,17 +115,17 @@ public class TestDataAccess {
 			} else 
 			return false;
 		}
-		public Ride removeRide(String email, String from, String to, Date date ) {
+		public void removeRide(String email, String from, String to, Date date ) {
 			System.out.println(">> TestDataAccess: removeRide");
 			Driver d = db.find(Driver.class, email);
 			if (d!=null) {
 				db.getTransaction().begin();
-				Ride r= d.removeRide(from, to, date);
+				d.removeRide(from, to, date);
 				db.getTransaction().commit();
-				return r;
+				//return r;
 
-			} else 
-			return null;
+			}// else 
+			//return null;
 
 		}
 
