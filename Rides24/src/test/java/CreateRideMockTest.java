@@ -23,6 +23,7 @@ import org.mockito.Mockito;
 import org.mockito.MockitoAnnotations;
 
 import dataAccess.DataAccess;
+import domain.Car;
 import domain.Driver;
 import domain.Ride;
 import exceptions.RideAlreadyExistException;
@@ -89,15 +90,18 @@ public class CreateRideMockTest {
 		}	
 		try {
 					
-			 driver=new Driver(driverEmail,driverName);
-			 driver.addRide(rideFrom, rideTo, rideDate, 0, 0);
+			 driver=new Driver(driverEmail,driverName, "pass");
+			 Car car = new Car("AA123456", 4, driver, true);
+			 // String from, String to, Date date, float price, Car car
+			 driver.addRide(rideFrom, rideTo, rideDate, 0, car);
 			//configure the state through mocks 
 	        Mockito.when(db.find(Driver.class, driver.getEmail())).thenReturn(driver);
 		
 			
 			//invoke System Under Test (sut)  
 			sut.open();
-		    sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail);
+			// String from, String to, Date date, float price, String driverEmail, String carPlate
+		    sut.createRide(rideFrom, rideTo, rideDate, 0, driverEmail, "AA123456");
 			sut.close();
 			
 			fail();
@@ -122,6 +126,7 @@ public class CreateRideMockTest {
 
 		String rideFrom="Donostia";
 		String rideTo="Zarautz";
+		Car car = new Car("AA123456", 4, driver, true);
 		
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		Date rideDate=null;;
@@ -133,14 +138,14 @@ public class CreateRideMockTest {
 		}	
 		
 		try {
-			Driver driver1=new Driver(driverEmail,driverName);
+			Driver driver1=new Driver(driverEmail,driverName, "pass");
 
 			//configure the state through mocks 
 	        Mockito.when(db.find(Driver.class, driver1.getEmail())).thenReturn(driver1);
 					
 			//invoke System Under Test (sut)  
 			sut.open();
-			Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail);
+			Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, driverEmail, "AA123456");
 			sut.close();
 			//verify the results
 			assertNotNull(ride);
@@ -194,7 +199,7 @@ public class CreateRideMockTest {
 				
 				//invoke System Under Test (sut)  
 				sut.open();
-				Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail);
+				Ride ride=sut.createRide(rideFrom, rideTo, rideDate, 0, driverEmail, "AA123456");
 				System.out.println("ride "+ride);
 
 				//verify the results
@@ -243,12 +248,12 @@ public class CreateRideMockTest {
 		try {
 			//configure the state through mocks 
 
-			driver=new Driver(driverEmail,driverName);
+			driver=new Driver(driverEmail,driverName, "pass");
 	        Mockito.when(db.find(Driver.class, driver.getEmail())).thenReturn(driver);
 			
 	        //invoke System Under Test (sut)  
 			sut.open();
-			 ride=sut.createRide(rideFrom, rideTo, rideDate, 0, 0, driverEmail);
+			 ride=sut.createRide(rideFrom, rideTo, rideDate, 0, driverEmail, "AA123456");
 			sut.close();			
 			//verify the results
 			assertNull(ride);
