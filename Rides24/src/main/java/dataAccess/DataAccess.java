@@ -534,25 +534,25 @@ public class DataAccess  {
 	}
 	
 	private void returnMoneyTravelers(List<Reservation>resList, String email) {
-		try {
-			Traveler t;
-			Transaction trans;
-			Driver d = db.find(Driver.class, email);
-			for(Reservation res : resList) {
-				if(res.isPayed()) {
-					t = db.find(Traveler.class, res.getTraveler().getEmail());
-					t.setMoney(t.getMoney()+res.getCost());
-					trans = new Transaction(res.getCost(), res.getDriver(), res.getTraveler());
-					t.addTransaction(trans);
-					d.addTransaction(trans);
-					d.setMoney(d.getMoney()-res.getCost());
-					db.persist(t);
-					db.persist(d);
-					db.persist(trans);
+		try { //try1
+			Traveler t; //1
+			Transaction trans; //2
+			Driver d = db.find(Driver.class, email);//3
+			for(Reservation res : resList) {//for-1
+				if(res.isPayed()) { //if-1
+					t = db.find(Traveler.class, res.getTraveler().getEmail()); //4
+					t.setMoney(t.getMoney()+res.getCost()); //5
+					trans = new Transaction(res.getCost(), res.getDriver(), res.getTraveler()); //6
+					t.addTransaction(trans); //7
+					d.addTransaction(trans); //8
+					d.setMoney(d.getMoney()-res.getCost()); //9
+					db.persist(t); //10
+					db.persist(d); //11
+					db.persist(trans); //12
 				}
 			}
 		}catch(NullPointerException e) {
-			db.getTransaction().commit();
+			db.getTransaction().commit(); //13
 		}
 	}
 	
