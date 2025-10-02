@@ -1,89 +1,10 @@
 
-@gui.MainGUI#getRdbtnNewRadioButton_1()Ljavax/swing/JRadioButton;G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java§ §(."3*¯
-2G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java©, ©(5†ƒ
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java© ©(+
-%1javax.swing.JRadioButton"javax.swing.JRadioButton·
-´
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java© ©(6
-%2"4javax.swing.JRadioButton#<init>(Ljava/lang/String;)V* 
-
-%1javax.swing.JRadioButton*	
-Euskara
-›
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java© ©(6(
-gui.MainGUI"
-rdbtnNewRadioButton_1"__id* 
-
-%1javax.swing.JRadioButton
-›
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaª ª(
-%3javax.swing.JRadioButton"__id***(
-gui.MainGUI"
-rdbtnNewRadioButton_1yw
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaª/ ª(=
-%4Lgui/MainGUI$4700;"Lgui/MainGUI$4700;Š
-‡
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaª+ ¯(
-%5"java.lang.Object#<init>()V*
-
-%4Lgui/MainGUI$4700;š—
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaª ¯(
+domain.Driver#hasCars()Z`
+TC:/Users/Haritz/Desktop/UNI/4.urtea/SI2/SI2/Rides24/src/main/java/domain/Driver.javaö ö("1*%
+1
+÷
+ ÷("
 
-%6void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V* 
-
-%3javax.swing.JRadioButton*
-
-%4Lgui/MainGUI$4700;22addActionListener(Ljava/awt/event/ActionListener;)“
-
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java° °(
-%7javax.swing.ButtonGroup"__id* *
-gui.MainGUI"
-buttonGroup
-›
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java° °((
-%8javax.swing.JRadioButton"__id***(
-gui.MainGUI"
-rdbtnNewRadioButton_1ú÷
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java° °()
-
-%9void":javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V*
-
-%7javax.swing.ButtonGroup* 
-
-%8javax.swing.JRadioButton2!add(Ljavax/swing/AbstractButton;)*
-1*õ
-3G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java¨ ¨(
-›
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java¨ ¨(
-%0javax.swing.JRadioButton"__id***(
-gui.MainGUI"
-rdbtnNewRadioButton_1*
-2
-1*Ü
-1G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java²	 ²(Ÿ
-œ
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java²	 ²(
-%10javax.swing.JRadioButton"__id***(
-gui.MainGUI"
-rdbtnNewRadioButton_1"l
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.java² ²(!
-
-%10javax.swing.JRadioButtonB
-gui.MainGUI
+÷ ÷(
+""B
+domain.DriverHX

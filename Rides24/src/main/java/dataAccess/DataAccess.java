@@ -1,8 +1,6 @@
 package dataAccess;
 
 import java.io.File;
-import java.net.NoRouteToHostException;
-import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
@@ -27,6 +25,7 @@ import exceptions.*;
 public class DataAccess  {
 	private  EntityManager  db;
 	private  EntityManagerFactory emf;
+	static final String BILBO = "Bilbo";
 
 
 	ConfigXML c=ConfigXML.getInstance();
@@ -65,6 +64,7 @@ public class DataAccess  {
 	public void initializeDB(){
 		
 		db.getTransaction().begin();
+		
 
 		try {
 
@@ -94,16 +94,16 @@ public class DataAccess  {
 
 			
 			//Create rides
-			driver1.addRide("Donostia", "Bilbo", UtilDate.newDate(year,month,15), 7, car1);
+			driver1.addRide("Donostia", BILBO, UtilDate.newDate(year,month,15), 7, car1);
 			driver1.addRide("Donostia", "Gazteiz", UtilDate.newDate(year,month,6), 8, car1);
-			driver1.addRide("Bilbo", "Donostia", UtilDate.newDate(year,month,25), 4, car5);
+			driver1.addRide(BILBO, "Donostia", UtilDate.newDate(year,month,25), 4, car5);
 			driver1.addRide("Donostia", "Iruña", UtilDate.newDate(year,month,7), 8, car5);
 			
-			driver2.addRide("Donostia", "Bilbo", UtilDate.newDate(year,month,15), 3, car2);
-			driver2.addRide("Bilbo", "Donostia", UtilDate.newDate(year,month,25), 5, car4);
+			driver2.addRide("Donostia", BILBO, UtilDate.newDate(year,month,15), 3, car2);
+			driver2.addRide(BILBO, "Donostia", UtilDate.newDate(year,month,25), 5, car4);
 			driver2.addRide("Eibar", "Gasteiz", UtilDate.newDate(year,month,6), 5, car2);
 
-			driver3.addRide("Bilbo", "Donostia", UtilDate.newDate(year,month,14), 3, car3);
+			driver3.addRide(BILBO, "Donostia", UtilDate.newDate(year,month,14), 3, car3);
 
 			Admin admin1 = new Admin("aitzol@gmail.com", "Aitzol", "123");
 			Admin admin2 = new Admin("eneko@gmail.com", "Eneko", "123");
@@ -142,8 +142,7 @@ public class DataAccess  {
 	public List<String> getArrivalCities(String from){
 		TypedQuery<String> query = db.createQuery("SELECT DISTINCT r.to FROM Ride r WHERE r.from=?1 ORDER BY r.to",String.class);
 		query.setParameter(1, from);
-		List<String> arrivingCities = query.getResultList(); 
-		return arrivingCities;
+		return query.getResultList(); 
 		
 	}
 	/**
@@ -712,22 +711,22 @@ public class DataAccess  {
 	
 	public void acceptComplaint(Complaint co) {
 		db.getTransaction().begin();
-		Complaint c = db.find(Complaint.class, co.getId());
-		Driver d = db.find(Driver.class, c.getDriverEmail());
-		Traveler t = db.find(Traveler.class, c.getTravelerEmail());
+		Complaint complaint = db.find(Complaint.class, co.getId());
+		Driver d = db.find(Driver.class, complaint.getDriverEmail());
+		Traveler t = db.find(Traveler.class, complaint.getTravelerEmail());
 		Reservation res = db.find(Reservation.class, co.getRes().getReservationCode());
 		float price = res.getHmTravelers()*res.getRide().getPrice();
 		d.setMoney(d.getMoney()-price);
 		t.setMoney(t.getMoney()+price);
-		d.removeComplaint(c);
-		t.removeComplaint(c);
+		d.removeComplaint(complaint);
+		t.removeComplaint(complaint);
 		Transaction tra = new Transaction(price, t, d);
 		d.addTransaction(tra);
 		t.addTransaction(tra);
 		db.persist(tra);
 		db.persist(t);
 		db.persist(d);
-		db.remove(c);
+		db.remove(complaint);
 		db.getTransaction().commit();
 	}
 	

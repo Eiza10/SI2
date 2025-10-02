@@ -1,0 +1,101 @@
+
+štestOperations.TestDataAccess#addDriverWithRide(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;IF)Ldomain/Driver;n
+dC:/Users/Haritz/Desktop/UNI/4.urtea/SI2/SI2/Rides24/src/test/java/testOperations/TestDataAccess.javaY Y(!"11*4
+3c c("%
+c c(
+
+driverdomain.Driver*é
+6a a(ÔÑ
+a a(6
+%3"Wdomain.Driver#addRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;FLCar;)LRide;*5
+
+__unknown_file (
+
+driverdomain.Driver*6
+
+__unknown_file (
+
+fromjava.lang.String*4
+
+__unknown_file (
+
+tojava.lang.String*4
+
+__unknown_file (
+
+datejava.util.Date*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2CaddRide(Ljava/lang/String;Ljava/lang/String;Ljava/util/Date;FLCar;)*
+3*c
+7` `(#O
+M
+` `(#
+driverdomain.Driver"__id*"
+
+__unknown_file (
+""*
+6*Ý
+9^ ^(+O
+M
+^ ^(+
+driverdomain.Driver"__id*"
+
+__unknown_file (
+""u
+s
+_	 _(
+%2boolean"	__compare*
+_ _(
+==*%
+_	 _(
+
+driverdomain.Driver*
+_ _(
+""*
+6
+7*¡
+11Z Z(	Q
+O
+Z Z(
+%0java.io.PrintStream"__id*"
+
+__unknown_file (
+""çä
+Z Z(=
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*7
+
+__unknown_file (
+
+%0java.io.PrintStream*D
+
+__unknown_file ((&
+$>> TestDataAccess: addDriverWithRide2println(Ljava/lang/String;)O
+M
+[ [(
+driverdomain.Driver"__id*"
+
+__unknown_file (
+""*
+9:%
+Y" Y(/
+emailjava.lang.String:$
+Y0 Y(<
+namejava.lang.String:$
+Y= Y(I
+fromjava.lang.String:"
+YJ Y(T
+tojava.lang.String:"
+YV Y(`
+datejava.util.Date: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B!
+testOperations.TestDataAccessH

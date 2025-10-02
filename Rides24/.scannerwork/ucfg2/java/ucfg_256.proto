@@ -1,0 +1,165 @@
+
+\dataAccess.DataAccess#doesAlertExist(Ldomain/Traveler;Ljava/lang/String;Ljava/lang/String;)Zh
+\C:/Users/Haritz/Desktop/UNI/4.urtea/SI2/SI2/Rides24/src/main/java/dataAccess/DataAccess.java‚ ‚("7*ü
+4
+Š Š(Ž
+‹
+
+Š Š(
+%9domain.Alert"
+__arrayGet*9
+
+__unknown_file (
+
+	alertListjava.util.List*"
+
+__unknown_file (
+""ÑÎ
+
+Š Š()
+%10boolean"(domain.Alert#equals(Ljava/lang/Object;)Z*0
+
+__unknown_file (
+
+%9domain.Alert*8
+
+__unknown_file (
+
+
+momentukoadomain.Alert2equals(Ljava/lang/Object;)*
+5
+1*ý
+5
+‰ ‰(tr
+
+‰ ‰($	
+%7int"java.util.List#size()I*9
+
+__unknown_file (
+
+	alertListjava.util.List2size()n
+l
+
+‰ ‰($
+%8boolean"	__compare*
+
+‰ ‰(
+<*
+
+‰ ‰(
+""*
+
+‰ ‰($
+	
+%7int*
+4
+1*Î
+
+7
+ƒ ƒ(—”
+
+ƒ' ƒ(5
+%0java.lang.String",domain.Traveler#getEmail()Ljava/lang/String;*4
+
+__unknown_file (
+
+tradomain.Traveler2
+getEmail()N
+L
+
+ƒ ƒ(7
+tdomain.Traveler"__id*"
+
+__unknown_file (
+""0.
+
+„ „(
+%1domain.Alert"domain.Alert¿
+¼
+
+„ „(4
+%2"Kdomain.Alert#<init>(Ljava/lang/String;Ljava/lang/String;Ldomain/Traveler;)V*0
+
+__unknown_file (
+
+%1domain.Alert*:
+
+__unknown_file (
+
+jatorriajava.lang.String*9
+
+__unknown_file (
+
+helmugajava.lang.String*2
+
+__unknown_file (
+
+tdomain.Travelerb
+`
+
+„ „(5
+
+momentukoadomain.Alert"__id*0
+
+__unknown_file (
+
+%1domain.Alert“
+
+… …(&
+%3java.util.List"+domain.Traveler#getAlerts()Ljava/util/List;*2
+
+__unknown_file (
+
+tdomain.Traveler2getAlerts()e
+c
+
+… …('
+	alertListjava.util.List"__id*2
+
+__unknown_file (
+
+%3java.util.ListS
+Q
+
+† †(
+%4java.io.PrintStream"__id*"
+
+__unknown_file (
+""tr
+
+† †(%	
+%5int"java.util.List#size()I*9
+
+__unknown_file (
+
+	alertListjava.util.List2size()ª§
+
+† †(&
+
+%6void"java.io.PrintStream#println(I)V*7
+
+__unknown_file (
+
+%4java.io.PrintStream*'
+
+__unknown_file (
+	
+%5int2
+println(I)*
+5
+1*%
+1
+	 ("
+
+ (
+"":$
+
+‚  ‚(-
+tradomain.Traveler:*
+
+‚. ‚(>
+jatorriajava.lang.String:)
+
+‚? ‚(M
+helmugajava.lang.StringB
+dataAccess.DataAccessX

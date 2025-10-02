@@ -1,93 +1,75 @@
 
-,gui.MainGUI#getBoton3()Ljavax/swing/JButton;G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÅ Å("3*®
-2G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÉ É(&{y
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÉ É($
-%1javax.swing.JButton"javax.swing.JButtoné
-ã
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÉ É(&
-%2"javax.swing.JButton#<init>()V*
-
-%1javax.swing.JButtonó
-î
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÉ É(&&
-gui.MainGUI"
-jButtonQueryQueries"__id*
-
-%1javax.swing.JButtonó
-î
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÑ Ñ(
-%3javax.swing.JButton"__id*(*&
-gui.MainGUI"
-jButtonQueryQueriesÎ
-Ë
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÑ Ñ(D
-%4java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
-java.util.ResourceBundle*
-	EtiquetasÅ˛
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÑ Ñ(^
-%5java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
-
-%4java.util.ResourceBundle*
-QueryQueries2getString(Ljava/lang/String;)Â‚
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÑ Ñ(_
+domain.Driver#takeMoney(F)Z`
+TC:/Users/Haritz/Desktop/UNI/4.urtea/SI2/SI2/Rides24/src/main/java/domain/Driver.java   ("3*´
+2
+Ã Ã(qo
 
-%6void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
-
-%3javax.swing.JButton*
-
-%5java.lang.String2setText(Ljava/lang/String;)ó
-î
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÖ Ö(
-%7javax.swing.JButton"__id*(*&
-gui.MainGUI"
-jButtonQueryQueriesyw
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÖ- Ö(J
-%8Lgui/MainGUI$3400;"Lgui/MainGUI$3400;ä
-á
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÖ) ã(
-%9"java.lang.Object#<init>()V*
+Ã Ã( 
+%2float"domain.Driver#getMoney()F*-
 
-%8Lgui/MainGUI$3400;ñì
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÖ ã(
-%10void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
-
-%7javax.swing.JButton*
+__unknown_file (
+domain.Driver2
+getMoney()p
+n
+
+Ã Ã('
+%3float"__calculate*
+
+Ã  Ã(!
+-*
+
+Ã Ã( 
+
+%2float*
+
+Ã! Ã('
+""ûõ
+
+Ã Ã((
+
+%4void"domain.Driver#setMoney(F)V*-
 
-%8Lgui/MainGUI$3400;22addActionListener(Ljava/awt/event/ActionListener;)*
-1*Ó
-3G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÇ Ç(ó
-î
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaÇ Ç(
-%0javax.swing.JButton"__id*(*&
-gui.MainGUI"
-jButtonQueryQueries*
+__unknown_file (
+domain.Driver*)
+
+__unknown_file (
+
+%3float2setMoney(F)"
+
+Õ Õ(
+""*¸
+3
+À À(qo
+
+À À(
+%0float"domain.Driver#getMoney()F*-
+
+__unknown_file (
+domain.Driver2
+getMoney()p
+n
+
+À À(
+%1boolean"	__compare*
+
+À À(
+<*
+
+À À(
+""*
+
+À À(
+
+%0float*
 2
-1*–
-1G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaç	 ç(ò
-ï
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaç	 ç(
-%11javax.swing.JButton"__id*(*&
-gui.MainGUI"
-jButtonQueryQueries"g
-G
-;/Users/iturrioz/git/Bets2021/src/main/java/gui/MainGUI.javaç ç(
-
-%11javax.swing.JButtonB
-gui.MainGUI
+1*%
+1
+œ
+ œ("
+
+œ œ(
+"": 
+
+__unknown_file (
+""B
+domain.DriverHX
