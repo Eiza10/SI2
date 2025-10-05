@@ -532,7 +532,7 @@ public class DataAccess  {
 		}
 	}
 	
-	private void returnMoneyTravelers(List<Reservation>resList, String email) {
+	public void returnMoneyTravelers(List<Reservation>resList, String email) {
 		try { //try1
 			Traveler t; //1
 			Transaction trans; //2
