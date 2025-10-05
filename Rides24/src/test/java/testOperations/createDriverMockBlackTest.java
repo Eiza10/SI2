@@ -54,78 +54,68 @@ public class createDriverMockBlackTest {
 	}
 	
 	@Test
-	// sut.createDriver: El Driver("proba@gmail.com") NO existe en la DB.
-	// El Driver debe ser creado en la DB correctamente.
-	// Prueba casos válidos: email, name y password no nulos
+	// Sarrera: "proba@gmail.com", "Proba Izena", "987"
+	// Gidaria arazorik gabe sortu beharko litzateke
 	public void test1() {
 		String email = "proba@gmail.com";
 		String name = "Proba Izena";
 		String password = "987";
 		
 		try {
-			// Configurar el mock para que devuelva null (driver no existe)
+			// Konfiguratu mock-a null itzul dezan (Gidaria ez da existitzen)
 			Mockito.when(db.find(Driver.class, email)).thenReturn(null);
 			
-			// Invocar al System Under Test (sut)
 			sut.open();
 			Driver driver = sut.createDriver(email, name, password);
 			sut.close();
 			
-			// Verificar los resultados
 			assertNotNull(driver);
 			assertEquals(email, driver.getEmail());
 			assertEquals(name, driver.getName());
 			assertEquals(password, driver.getPassword());
 			
-			// Verificar que se llamó a persist
+			// Gidariaren sorrera bermatu
 			Mockito.verify(db).persist(Mockito.any(Driver.class));
 			
 		} catch (UserAlreadyExistException e) {
-			// Si el programa llega a este punto, falla
 			fail();
 		} catch (Exception e) {
-			// Cualquier otra excepción también falla el test
 			fail();
 		}
 	}
 	
 	@Test
-	// sut.createDriver: El Driver("driver1@gmail.com") YA existe en la DB.
-	// La excepción UserAlreadyExistException debe ser lanzada.
+	// Sarrera: "driver1@gmail.com", "Aitor Fernandez", "123"
+	// Erabiltzailea jada datu basean dago, beraz, UserAlreadyExistException saltatu beharko luke.
 	public void test2() {
 		String email = "driver1@gmail.com";
 		String name = "Aitor Fernandez";
 		String password = "123";
 		
 		try {
-			// Crear un driver existente
 			Driver existingDriver = new Driver(email, name, password);
 			
-			// Configurar el mock para que devuelva el driver existente
+			// Konfiguratu mock-a lehendik dagoen driverra itzul dezan
 			Mockito.when(db.find(Driver.class, email)).thenReturn(existingDriver);
 			
-			// Invocar al System Under Test (sut)
 			sut.open();
 			Driver driver = sut.createDriver(email, name, password);
 			sut.close();
 			
-			// Si llegamos aquí sin excepción, el test falla
 			fail();
 			
 		} catch (UserAlreadyExistException e) {
-			// Verificar que se lanzó la excepción esperada
 			sut.close();
 			assertTrue(true);
 		} catch (Exception e) {
-			// Cualquier otra excepción falla el test
 			sut.close();
 			fail();
 		}
 	}
 	
 	@Test
-	// sut.createDriver: El email es null, name es "Proba Izena", password es "987"
-	// El test debe devolver null
+	// Sarrera: null, "Proba Izena", "987"
+	// Testak null itzuli behar du
 	public void test3() {
 		String email = null;
 		String name = "Proba Izena";
@@ -134,29 +124,25 @@ public class createDriverMockBlackTest {
 		Driver driver = null;
 		
 		try {
-			// Configurar el mock
+			// Konfiguratu mock-a null itzuli dezan
 			Mockito.when(db.find(Driver.class, email)).thenReturn(null);
 			
-			// Invocar al System Under Test (sut)
 			sut.open();
 			driver = sut.createDriver(email, name, password);
 			sut.close();
 			
-			// Verificar los resultados
 			assertNull(driver);
 			
 		} catch (UserAlreadyExistException e) {
-			// Si el programa llega a este punto, falla
 			fail();
 		} catch (Exception e) {
-			// Cualquier otra excepción también falla el test
 			fail();
 		}
 	}
 	
 	@Test
-	// sut.createDriver: El email es "proba@gmail.com", name es null, password es "987"
-	// El test debe devolver null
+	// Sarrera: "proba@gmail.com", null, "987"
+	// Testak null itzuli behar du
 	public void test4() {
 		String email = "proba@gmail.com";
 		String name = null;
@@ -165,29 +151,25 @@ public class createDriverMockBlackTest {
 		Driver driver = null;
 		
 		try {
-			// Configurar el mock
+			// Konfiguratu mock-a null itzuli dezan
 			Mockito.when(db.find(Driver.class, email)).thenReturn(null);
 			
-			// Invocar al System Under Test (sut)
 			sut.open();
 			driver = sut.createDriver(email, name, password);
 			sut.close();
 			
-			// Verificar los resultados
 			assertNull(driver);
 			
 		} catch (UserAlreadyExistException e) {
-			// Si el programa llega a este punto, falla
 			fail();
 		} catch (Exception e) {
-			// Cualquier otra excepción también falla el test
 			fail();
 		}
 	}
 	
 	@Test
-	// sut.createDriver: El email es "proba@gmail.com", name es "Proba Izena", password es null
-	// El test debe devolver null
+	// Sarrera: "proba@gmail.com", "Proba Izena", null
+	// Testak null itzuli behar du
 	public void test5() {
 		String email = "proba@gmail.com";
 		String name = "Proba Izena";
@@ -196,22 +178,18 @@ public class createDriverMockBlackTest {
 		Driver driver = null;
 		
 		try {
-			// Configurar el mock
+			// Konfiguratu mock-a null itzuli dezan
 			Mockito.when(db.find(Driver.class, email)).thenReturn(null);
 			
-			// Invocar al System Under Test (sut)
 			sut.open();
 			driver = sut.createDriver(email, name, password);
 			sut.close();
 			
-			// Verificar los resultados
 			assertNull(driver);
 			
 		} catch (UserAlreadyExistException e) {
-			// Si el programa llega a este punto, falla
 			fail();
 		} catch (Exception e) {
-			// Cualquier otra excepción también falla el test
 			fail();
 		}
 	}

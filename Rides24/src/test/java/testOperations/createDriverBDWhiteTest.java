@@ -18,24 +18,22 @@ public class createDriverBDWhiteTest {
 	// sut: system under test
 	static DataAccess sut = new DataAccess();
 	
-	// additional operations needed to execute the test
 	static TestDataAccess testDA = new TestDataAccess();
 	
 	@SuppressWarnings("unused")
 	private Driver driver;
 	
 	@Test
-	// sut.createDriver: El email es null, el name es "Driver Gonzalez", el password es "135"
-	// El test debe devolver null. Si se devuelve una excepción, el método createDriver no está bien implementado.
+	// Sarrera: null, "Driver Gonzalez", "135"
+	// Testak null itzuli behar du
 	public void test1() {
 		Driver driver = null;
 		try {
-			// Definir parámetros
+			
 			String email = null;
 			String name = "Driver Gonzalez";
 			String password = "135";
 			
-			// Invocar al System Under Test (sut)
 			sut.open();
 			driver = sut.createDriver(email, name, password);
 			
@@ -43,10 +41,8 @@ public class createDriverBDWhiteTest {
 			assertNull(driver);
 			
 		} catch (UserAlreadyExistException e) {
-			// Si el programa llega a este punto, falla
 			fail();
 		} catch (Exception e) {
-			// Cualquier otra excepción también falla el test
 			fail();
 		} finally {
 			sut.close();
@@ -54,8 +50,8 @@ public class createDriverBDWhiteTest {
 	}
 	
 	@Test
-	// sut.createDriver: El Driver con email "driver1@gmail.com" YA existe en la DB.
-	// La excepción UserAlreadyExistException debe ser lanzada.
+	// Sarrera: "driver1@gmail.com", "Aitor Fernandez", "123"
+	// Erabiltzailea jada datu basean dago, beraz, UserAlreadyExistException saltatu beharko luke.
 	public void test2() {
 		String email = "driver1@gmail.com";
 		String name = "Aitor Fernandez";
@@ -64,7 +60,7 @@ public class createDriverBDWhiteTest {
 		boolean driverCreated = false;
 		
 		try {
-			// Crear el driver en la DB antes del test
+			// Giadria sortu test aurretik (jada ez balego)
 			testDA.open();
 			if (!testDA.existDriver(email)) {
 				testDA.createDriver(email, name, password);
@@ -72,24 +68,20 @@ public class createDriverBDWhiteTest {
 			}
 			testDA.close();
 			
-			// Invocar al System Under Test (sut)
 			sut.open();
 			sut.createDriver(email, name, password);
 			sut.close();
 			
-			// Si llegamos aquí sin excepción, el test falla
 			fail();
 			
 		} catch (UserAlreadyExistException e) {
-			// Verificar que se lanzó la excepción esperada
 			sut.close();
 			assertTrue(true);
 		} catch (Exception e) {
-			// Cualquier otra excepción falla el test
 			sut.close();
 			fail();
 		} finally {
-			// Eliminar los objetos creados en la base de datos
+			// Sortutako gidaria ezabatu (sortu bada)
 			testDA.open();
 			if (driverCreated) {
 				testDA.removeDriver(email);
@@ -99,9 +91,8 @@ public class createDriverBDWhiteTest {
 	}
 	
 	@Test
-	// sut.createDriver: El Driver con email "example@gmail.com" NO existe en la DB.
-	// El Driver debe ser creado en la DB correctamente.
-	// El test asume que "example@gmail.com" no existe en la DB antes del test.
+	// Sarrera: "example@gmail.com", "Driver Gonzalez", "135"
+	// Gidaria datu basean sortu behar da 
 	public void test3() {
 		String email = "example@gmail.com";
 		String name = "Driver Gonzalez";
@@ -110,31 +101,28 @@ public class createDriverBDWhiteTest {
 		Driver driver = null;
 		
 		try {
-			// Invocar al System Under Test (sut)
+
 			sut.open();
 			driver = sut.createDriver(email, name, password);
 			sut.close();
 			
-			// Verificar los resultados
 			assertNotNull(driver);
 			assertEquals(email, driver.getEmail());
 			assertEquals(name, driver.getName());
 			assertEquals(password, driver.getPassword());
 			
-			// Verificar que el driver está en la DB
+			// Gidaria ondo sortu dela checkeatu
 			testDA.open();
 			boolean exist = testDA.existDriver(email);
 			assertTrue(exist);
 			testDA.close();
 			
 		} catch (UserAlreadyExistException e) {
-			// Si el programa llega a este punto, falla
 			fail();
 		} catch (Exception e) {
-			// Cualquier otra excepción también falla el test
 			fail();
 		} finally {
-			// Eliminar los objetos creados en la base de datos
+			// Sortutako gidaria ezabatu
 			testDA.open();
 			testDA.removeDriver(email);
 			testDA.close();
