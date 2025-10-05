@@ -1268,3 +1268,108 @@ Type domain.Alert is not enhanced.
 [2025-10-05 11:44:26 #11 type] 
 Type domain.Admin is not enhanced.
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 17:07:10 #1 store] 
+Database 'C:\Users\Asus\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 246-274)
+
+[2025-10-05 17:07:10 #2 store] 
+Database 'C:\Users\Asus\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' is opened by 3112@DESKTOP-ARIC0A9
+
+[2025-10-05 17:07:10 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 17:07:10 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 17:07:10 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 17:07:10 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 17:07:10 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 17:07:10 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 17:07:10 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 17:07:10 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 17:07:10 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 18:04:35 #1 store] 
+Database 'C:\Users\Asus\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 275-279)
+
+[2025-10-05 18:04:35 #2 store] 
+Database 'C:\Users\Asus\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' is opened by 20896@DESKTOP-ARIC0A9
+
+[2025-10-05 18:04:35 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 18:04:35 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 18:04:35 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 18:04:35 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 18:04:35 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 18:04:35 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 18:04:35 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 18:04:35 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 18:04:35 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 18:06:25 #1 store] 
+Database 'C:\Users\Asus\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 280-288)
+
+[2025-10-05 18:06:25 #2 store] 
+Database 'C:\Users\Asus\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' is opened by 21800@DESKTOP-ARIC0A9
+
+[2025-10-05 18:06:25 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 18:06:25 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 18:06:25 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 18:06:25 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 18:06:25 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 18:06:25 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 18:06:25 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 18:06:25 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 18:06:25 #11 type] 
+Type domain.Admin is not enhanced.
+
