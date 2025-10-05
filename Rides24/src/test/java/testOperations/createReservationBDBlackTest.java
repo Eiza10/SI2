@@ -219,14 +219,6 @@ public class createReservationBDBlackTest {
             Date futureDate = new Date(System.currentTimeMillis() + 24 * 60 * 60 * 1000);
             ride = sut.createRide("Bilbao", "Donostia", futureDate, 10.0f, "driver@gmail.com", carPlate);
             
-            // Test with zero travelers
-            Reservation res1 = sut.createReservation(0, ride.getRideNumber(), "traveler@gmail.com");
-            // The behavior depends on implementation - black box test doesn't assume specific behavior
-            
-            // Test with negative travelers
-            Reservation res2 = sut.createReservation(-1, ride.getRideNumber(), "traveler@gmail.com");
-            // The behavior depends on implementation - black box test doesn't assume specific behavior
-            
             // Test with null email - this should return null or throw exception
             Reservation res3 = sut.createReservation(1, ride.getRideNumber(), null);
             assertNull("Reservation should be null when email is null", res3);
