@@ -125,14 +125,7 @@ public class createDriverBDBlackTest {
 			fail();
 		} catch (Exception e) {
 			fail();
-		} finally {
-			// Datu basea garbitu gidaria sortu bada
-			testDA.open();
-			if (testDA.existDriver(email)) {
-				testDA.removeDriver(email);
-			}
-			testDA.close();
-		}
+		} 
 	}
 	
 	@Test

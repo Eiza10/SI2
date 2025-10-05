@@ -1653,3 +1653,108 @@ Type domain.Alert is not enhanced.
 [2025-10-05 22:36:09 #11 type] 
 Type domain.Admin is not enhanced.
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 23:17:57 #1 store] 
+Database 'C:\VSCode\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 348-349)
+
+[2025-10-05 23:17:57 #2 store] 
+Database 'C:\VSCode\SI2\Rides24\src\main\resources\rides.temp' is opened by 1100@PC_HARITZ
+
+[2025-10-05 23:17:57 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 23:17:57 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 23:17:57 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 23:17:57 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 23:17:57 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 23:17:57 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 23:17:57 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 23:17:57 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 23:17:57 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 23:18:11 #1 store] 
+Database 'C:\VSCode\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 350-351)
+
+[2025-10-05 23:18:11 #2 store] 
+Database 'C:\VSCode\SI2\Rides24\src\main\resources\rides.temp' is opened by 25428@PC_HARITZ
+
+[2025-10-05 23:18:11 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 23:18:11 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 23:18:11 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 23:18:11 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 23:18:11 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 23:18:11 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 23:18:11 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 23:18:11 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 23:18:11 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 23:21:10 #1 store] 
+Database 'C:\VSCode\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 352-357)
+
+[2025-10-05 23:21:10 #2 store] 
+Database 'C:\VSCode\SI2\Rides24\src\main\resources\rides.temp' is opened by 12872@PC_HARITZ
+
+[2025-10-05 23:21:10 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 23:21:10 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 23:21:10 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 23:21:10 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 23:21:10 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 23:21:10 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 23:21:10 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 23:21:10 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 23:21:10 #11 type] 
+Type domain.Admin is not enhanced.
+
