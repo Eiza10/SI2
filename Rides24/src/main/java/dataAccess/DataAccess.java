@@ -319,7 +319,7 @@ public class DataAccess  {
 				throw new ReservationAlreadyExistException(ResourceBundle.getBundle("Etiquetas").getString("DataAccess.ReservationAlreadyExist"));
 			}
 			Reservation res = t.makeReservation(r, hm);
-			
+			System.out.println("res: "+ res);
 			d.addReservation(res);
 			r.addReservation(res);
 			db.persist(d); 
