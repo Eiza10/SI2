@@ -1,0 +1,1270 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:48:42 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 25136@heax
+
+[2025-10-05 10:48:42 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:48:42 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:48:42 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:48:42 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:48:42 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:48:42 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:48:42 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:48:42 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:48:42 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:52:25 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 18440@heax
+
+[2025-10-05 10:52:25 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:52:25 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:52:25 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:52:25 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:52:25 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:52:25 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:52:25 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:52:25 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:52:25 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:52:58 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 4680@heax
+
+[2025-10-05 10:52:58 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:52:58 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:52:58 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:52:58 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:52:58 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:52:58 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:52:58 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:52:58 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:52:58 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:54:57 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 31612@heax
+
+[2025-10-05 10:54:57 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:54:57 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:54:57 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:54:57 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:54:57 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:54:57 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:54:57 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:54:57 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:54:57 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:55:34 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 30628@heax
+
+[2025-10-05 10:55:34 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:55:34 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:55:34 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:55:34 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:55:34 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:55:34 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:55:34 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:55:34 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:55:34 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:56:33 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 16776@heax
+
+[2025-10-05 10:56:33 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:56:33 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:56:33 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:56:33 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:56:33 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:56:33 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:56:33 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:56:33 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:56:33 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:56:44 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 9352@heax
+
+[2025-10-05 10:56:44 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:56:44 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:56:44 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:56:44 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:56:44 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:56:44 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:56:44 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:56:44 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:56:44 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:56:55 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 18276@heax
+
+[2025-10-05 10:56:56 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:56:56 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:56:56 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:56:56 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:56:56 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:56:56 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:56:56 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:56:56 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:56:56 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:57:04 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 24168@heax
+
+[2025-10-05 10:57:04 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:57:04 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:57:04 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:57:04 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:57:04 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:57:04 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:57:04 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:57:04 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:57:04 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 10:57:21 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 40120@heax
+
+[2025-10-05 10:57:21 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 10:57:21 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 10:57:21 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 10:57:21 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 10:57:21 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 10:57:21 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 10:57:21 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 10:57:21 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 10:57:21 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:01:16 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 30140@heax
+
+[2025-10-05 11:01:16 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:01:16 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:01:16 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:01:16 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:01:16 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:01:16 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:01:16 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:01:16 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:01:16 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:02:51 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 31148@heax
+
+[2025-10-05 11:02:51 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:02:51 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:02:51 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:02:51 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:02:51 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:02:51 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:02:51 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:02:51 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:02:51 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:04:41 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 22780@heax
+
+[2025-10-05 11:04:41 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:04:41 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:04:41 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:04:41 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:04:41 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:04:41 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:04:41 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:04:41 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:04:41 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:07:00 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 3904@heax
+
+[2025-10-05 11:07:00 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:07:00 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:07:00 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:07:00 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:07:00 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:07:00 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:07:00 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:07:00 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:07:00 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:07:41 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 19084@heax
+
+[2025-10-05 11:07:41 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:07:41 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:07:41 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:07:41 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:07:41 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:07:41 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:07:41 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:07:41 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:07:41 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:08:14 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 15444@heax
+
+[2025-10-05 11:08:14 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:08:14 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:08:14 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:08:14 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:08:14 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:08:14 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:08:14 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:08:14 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:08:14 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:08:28 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 6072@heax
+
+[2025-10-05 11:08:28 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:08:28 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:08:28 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:08:28 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:08:28 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:08:28 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:08:28 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:08:28 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:08:28 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:08:46 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 35604@heax
+
+[2025-10-05 11:08:46 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:08:46 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:08:46 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:08:46 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:08:46 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:08:46 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:08:46 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:08:46 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:08:46 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:09:07 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 16212@heax
+
+[2025-10-05 11:09:07 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:09:07 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:09:07 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:09:07 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:09:07 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:09:07 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:09:07 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:09:07 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:09:07 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:31:08 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 5832@heax
+
+[2025-10-05 11:31:09 #2 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:31:09 #3 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:31:09 #4 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:31:09 #5 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:31:09 #6 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:31:09 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:31:09 #8 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:31:09 #9 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:31:09 #10 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:31:12 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 74-76)
+
+[2025-10-05 11:31:12 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 16612@heax
+
+[2025-10-05 11:31:12 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:31:12 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:31:12 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:31:12 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:31:12 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:31:12 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:31:12 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:31:12 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:31:12 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:31:33 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 77-78)
+
+[2025-10-05 11:31:33 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 21828@heax
+
+[2025-10-05 11:31:33 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:31:33 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:31:33 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:31:33 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:31:33 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:31:33 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:31:33 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:31:33 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:31:33 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:32:29 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 79-86)
+
+[2025-10-05 11:32:29 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 20764@heax
+
+[2025-10-05 11:32:29 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:32:29 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:32:29 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:32:29 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:32:29 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:32:29 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:32:29 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:32:29 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:32:29 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:32:51 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 87-94)
+
+[2025-10-05 11:32:51 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 25408@heax
+
+[2025-10-05 11:32:51 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:32:51 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:32:51 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:32:51 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:32:51 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:32:51 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:32:51 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:32:51 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:32:51 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:36:55 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 95-96)
+
+[2025-10-05 11:36:55 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 23964@heax
+
+[2025-10-05 11:36:55 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:36:55 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:36:55 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:36:55 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:36:55 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:36:55 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:36:55 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:36:55 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:36:55 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:39:35 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 97-104)
+
+[2025-10-05 11:39:35 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 14232@heax
+
+[2025-10-05 11:39:35 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:39:35 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:39:35 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:39:35 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:39:35 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:39:35 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:39:35 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:39:35 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:39:35 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:39:39 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 105-108)
+
+[2025-10-05 11:39:39 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 664@heax
+
+[2025-10-05 11:39:39 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:39:39 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:39:39 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:39:39 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:39:39 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:39:39 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:39:39 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:39:39 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:39:39 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:39:46 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 109-113)
+
+[2025-10-05 11:39:46 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 38668@heax
+
+[2025-10-05 11:39:46 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:39:46 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:39:46 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:39:46 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:39:46 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:39:46 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:39:46 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:39:46 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:39:46 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:39:50 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 114-118)
+
+[2025-10-05 11:39:50 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 26160@heax
+
+[2025-10-05 11:39:50 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:39:50 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:39:50 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:39:50 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:39:50 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:39:50 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:39:50 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:39:50 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:39:50 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:40:56 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 119-126)
+
+[2025-10-05 11:40:56 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 31412@heax
+
+[2025-10-05 11:40:56 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:40:56 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:40:56 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:40:56 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:40:56 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:40:56 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:40:56 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:40:56 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:40:56 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:41:03 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 127-142)
+
+[2025-10-05 11:41:03 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 1420@heax
+
+[2025-10-05 11:41:03 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:41:03 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:41:03 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:41:03 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:41:03 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:41:03 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:41:03 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:41:03 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:41:03 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:41:28 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 143-158)
+
+[2025-10-05 11:41:28 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 36872@heax
+
+[2025-10-05 11:41:28 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:41:28 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:41:28 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:41:28 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:41:28 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:41:28 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:41:28 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:41:28 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:41:28 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:42:46 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 159-174)
+
+[2025-10-05 11:42:46 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 38584@heax
+
+[2025-10-05 11:42:46 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:42:46 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:42:46 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:42:46 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:42:46 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:42:46 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:42:46 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:42:46 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:42:46 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:42:50 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 175-178)
+
+[2025-10-05 11:42:51 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 44752@heax
+
+[2025-10-05 11:42:51 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:42:51 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:42:51 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:42:51 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:42:51 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:42:51 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:42:51 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:42:51 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:42:51 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:42:55 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 179-182)
+
+[2025-10-05 11:42:55 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 13744@heax
+
+[2025-10-05 11:42:55 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:42:55 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:42:55 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:42:55 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:42:55 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:42:55 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:42:55 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:42:55 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:42:55 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:42:59 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 183-187)
+
+[2025-10-05 11:42:59 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 27892@heax
+
+[2025-10-05 11:42:59 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:42:59 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:42:59 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:42:59 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:42:59 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:42:59 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:42:59 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:42:59 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:42:59 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:43:04 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 188-216)
+
+[2025-10-05 11:43:04 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 21036@heax
+
+[2025-10-05 11:43:04 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:43:04 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:43:04 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:43:04 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:43:04 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:43:04 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:43:04 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:43:04 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:43:04 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-05 11:44:26 #1 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 217-245)
+
+[2025-10-05 11:44:26 #2 store] 
+Database 'R:\Github\SI2\Rides24\src\main\resources\rides.temp' is opened by 33104@heax
+
+[2025-10-05 11:44:26 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-05 11:44:26 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-05 11:44:26 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-05 11:44:26 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-05 11:44:26 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-05 11:44:26 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-05 11:44:26 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-05 11:44:26 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-05 11:44:26 #11 type] 
+Type domain.Admin is not enhanced.
+

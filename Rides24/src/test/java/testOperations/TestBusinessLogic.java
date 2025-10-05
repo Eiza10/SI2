@@ -29,7 +29,7 @@ public class TestBusinessLogic {
 		
 		public Driver createDriver(String email, String name) {
 			dbManagerTest.open();
-			Driver driver=dbManagerTest.createDriver(email, name);
+			Driver driver=dbManagerTest.createDriver(email, name, "pass");
 			dbManagerTest.close();
 			return driver;
 

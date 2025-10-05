@@ -67,12 +67,12 @@ public class TestDataAccess {
 		} else 
 		return false;
     }
-	public Driver createDriver(String email, String name) {
+	public Driver createDriver(String email, String name, String pass) {
 		System.out.println(">> TestDataAccess: addDriver");
 		Driver driver=null;
 			db.getTransaction().begin();
 			try {
-			    driver=new Driver(name,email, "pass");
+			    driver=new Driver(name,email, pass);
 				db.persist(driver);
 				db.getTransaction().commit();
 			}
