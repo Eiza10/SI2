@@ -1,5 +1,6 @@
 ------------------------------------------------------------------------------------------------------------------------
 
+<<<<<<< Updated upstream
 [2025-10-07 14:27:46 #1 store] 
 Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 358-363)
 
@@ -31,10 +32,44 @@ Type domain.Traveler is not enhanced.
 Type domain.Alert is not enhanced.
 
 [2025-10-07 14:27:46 #11 type] 
+=======
+[2025-10-07 14:42:44 #1 store] 
+Database 'C:\Users\Ander\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 358-363)
+
+[2025-10-07 14:42:44 #2 store] 
+Database 'C:\Users\Ander\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' is opened by 12988@DESKTOP-OI3C8J8
+
+[2025-10-07 14:42:45 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:42:45 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:42:45 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:42:45 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:42:45 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:42:45 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:42:45 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:42:45 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:42:45 #11 type] 
+>>>>>>> Stashed changes
 Type domain.Admin is not enhanced.
 
 ------------------------------------------------------------------------------------------------------------------------
 
+<<<<<<< Updated upstream
 [2025-10-07 14:34:53 #1 store] 
 Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 364-365)
 
@@ -836,5 +871,38 @@ Type domain.Traveler is not enhanced.
 Type domain.Alert is not enhanced.
 
 [2025-10-07 15:17:34 #11 type] 
+=======
+[2025-10-07 14:42:51 #1 store] 
+Database 'C:\Users\Ander\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 364-390)
+
+[2025-10-07 14:42:51 #2 store] 
+Database 'C:\Users\Ander\Documents\GitHub\SI2\Rides24\src\main\resources\rides.temp' is opened by 5732@DESKTOP-OI3C8J8
+
+[2025-10-07 14:42:51 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:42:51 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:42:51 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:42:51 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:42:51 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:42:51 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:42:51 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:42:51 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:42:51 #11 type] 
+>>>>>>> Stashed changes
 Type domain.Admin is not enhanced.
 

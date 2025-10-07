@@ -77,8 +77,8 @@ public class createReservationBDBlackTest {
         sut.open();
         
         try {
-            // Test with non-existent ride number
-            Reservation res1 = sut.createReservation(1, 999, "traveler@gmail.com");
+            // Test with non-existent ride number (use 333 to match others)
+            Reservation res1 = sut.createReservation(1, 333, "traveler@gmail.com");
             assertNull("Reservation should be null when ride doesn't exist", res1);
             
             // Test with non-existent traveler email  
@@ -110,21 +110,21 @@ public class createReservationBDBlackTest {
         sut.open();
         
         try {
-            // Create a car with limited seats (2 seats)
+            // Create a car with limited seats (1 seat) to match other tests
             String carPlate = "CAR-002-" + System.currentTimeMillis();
             try {
-                sut.addCarToDriver("driver@gmail.com", carPlate, 2, false);
+                sut.addCarToDriver("driver@gmail.com", carPlate, 1, false);
             } catch (CarAlreadyExistsException e) {
                 carPlate = "CAR-002-ALT-" + System.currentTimeMillis();
-                sut.addCarToDriver("driver@gmail.com", carPlate, 2, false);
+                sut.addCarToDriver("driver@gmail.com", carPlate, 1, false);
             }
             
-            // Create a ride with 2 seats
+            // Create a ride with 1 seat
             Date futureDate = new Date(System.currentTimeMillis() + 24 * 60 * 60 * 1000);
             ride = sut.createRide("Bilbao", "Donostia", futureDate, 10.0f, "driver@gmail.com", carPlate);
             
-            // Try to reserve more seats than available (3 > 2)
-            sut.createReservation(3, ride.getRideNumber(), "traveler@gmail.com");
+            // Try to reserve more seats than available (2 > 1)
+            sut.createReservation(2, ride.getRideNumber(), "traveler@gmail.com");
             
         } finally {
             sut.close();

@@ -73,14 +73,14 @@ public class createReservationBDWhiteTest {
 
     @Test
     // TRY-1(Catch): ride or traveler does not exist in database
-    // Input: <1, 999, traveler@gmail.com> (non-existent ride)
+    // Input: <1, 333, traveler@gmail.com> (non-existent ride)
     // Should return null
     public void test1() {
         sut.open();
         
         try {
-            // Use non-existent ride number
-            Reservation reservation = sut.createReservation(1, 999, "traveler@gmail.com");
+            // Use non-existent ride number (match mock test's 333)
+            Reservation reservation = sut.createReservation(1, 333, "traveler@gmail.com");
             
             // Should return null due to NPE handling when ride is not found
             assertNull("Reservation should be null when ride doesn't exist", reservation);
@@ -94,23 +94,23 @@ public class createReservationBDWhiteTest {
 
     @Test
     // TRY-1(try)-IF-2(T): r.getnPlaces() < hm
-    // Input: <3, rideNumber, traveler@gmail.com> where ride has only 2 seats
+    // Input: <2, rideNumber, traveler@gmail.com> where ride has only 1 seat
     // Should throw NotEnoughAvailableSeatsException
     public void test2() {
         sut.open();
         
         try {
-            // Add a car with 2 seats to the driver (use unique car plate)
+            // Add a car with 1 seat to the driver (use unique car plate) to match mock test
             String carPlate = "CAR-002-" + System.currentTimeMillis();
             try {
-                sut.addCarToDriver("driver@gmail.com", carPlate, 2, false);
+                sut.addCarToDriver("driver@gmail.com", carPlate, 1, false);
             } catch (CarAlreadyExistsException e) {
                 // If car already exists, use a different plate
                 carPlate = "CAR-002-ALT-" + System.currentTimeMillis();
-                sut.addCarToDriver("driver@gmail.com", carPlate, 2, false);
+                sut.addCarToDriver("driver@gmail.com", carPlate, 1, false);
             }
             
-            // Create a ride with limited seats (2 seats) and future date
+            // Create a ride with limited seats (1 seat) and future date
             Date futureDate = new Date(System.currentTimeMillis() + 24 * 60 * 60 * 1000); // tomorrow
             ride = sut.createRide("Bilbao", "Donostia", futureDate, 10.0f, "driver@gmail.com", carPlate);
             
@@ -120,9 +120,9 @@ public class createReservationBDWhiteTest {
             
             System.out.println("Created ride with number: " + ride.getRideNumber());
             
-            // Request more seats than available (3 > 2)
+            // Request more seats than available (2 > 1) to match mock test hm=2
             assertThrows(NotEnoughAvailableSeatsException.class, () -> {
-                sut.createReservation(3, ride.getRideNumber(), "traveler@gmail.com");
+                sut.createReservation(2, ride.getRideNumber(), "traveler@gmail.com");
             });
             
         } catch (Exception e) {

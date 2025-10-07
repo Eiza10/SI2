@@ -58,7 +58,7 @@ public class createReservationMockBlackTest {
     // -------- Test case 1: Ride or Traveler does not exist ----------
     @Test
     public void testCase1_NullRideOrTraveler() {
-        // DB returns null for ride
+        // DB returns null for ride (use 333 to match other tests)
         Mockito.when(db.find(Ride.class, 333)).thenReturn(null);
         Mockito.when(db.find(Traveler.class, "traveler@gmail.com")).thenReturn(traveler);
 
@@ -84,16 +84,16 @@ public class createReservationMockBlackTest {
     // -------- Test case 2: Not enough available seats ----------
     @Test(expected = NotEnoughAvailableSeatsException.class)
     public void testCase2_NotEnoughSeats() throws Exception {
-        // Create a ride with limited seats (only 2 seats available)
-        Car smallCar = new Car("ABC-123", 2, driver, false);
+        // Create a ride with limited seats (only 1 seat available)
+        Car smallCar = new Car("ABC-123-SMALL", 1, driver, false);
         Ride smallRide = driver.addRide("Bilbao", "Donostia", new Date(), 10.0f, smallCar);
         smallRide.setRideNumber(333);
         
         Mockito.when(db.find(Ride.class, 333)).thenReturn(smallRide);
         Mockito.when(db.find(Traveler.class, "traveler@gmail.com")).thenReturn(traveler);
 
-        // Request more seats than total available (3 > 2)
-        sut.createReservation(3, 333, "traveler@gmail.com"); // hm > total seats
+        // Request more seats than total available (2 > 1)
+        sut.createReservation(2, 333, "traveler@gmail.com"); // hm > total seats
     }
 
     // -------- Test case 3: Reservation already exists ----------

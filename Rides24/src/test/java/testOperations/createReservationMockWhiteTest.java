@@ -25,7 +25,6 @@ import domain.Ride;
 import domain.Traveler;
 import exceptions.NotEnoughAvailableSeatsException;
 import exceptions.ReservationAlreadyExistException;
-import exceptions.UserAlreadyExistException;
 
 public class createReservationMockWhiteTest {
 	static DataAccess sut;
