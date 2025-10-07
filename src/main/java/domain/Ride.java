@@ -162,7 +162,7 @@ public class Ride implements Serializable {
 	public void setNPlaces(int nPlaces) {
 		this.nPlaces = nPlaces;
 	}
-
+	
 	/**
 	 * Get the driver associated to the ride
 	 * 
@@ -204,6 +204,7 @@ public class Ride implements Serializable {
 	public void setReservations(List<Reservation> reservations) {
 		this.reservations = reservations;
 	}
+
 
 	public void setnPlaces(int nPlaces) {
 		this.nPlaces = nPlaces;
