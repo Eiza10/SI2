@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>1.0</groupId>
-	<artifactId>Rides24</artifactId>
+	<artifactId>SI2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -50,8 +50,8 @@
 
 		<sonar.organization>eiza10</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>eiza10_SI2</sonar.projectKey>
-		<sonar.login>7f8948bfdf4e6e11a0af66c0286e8dab82438bc9</sonar.login>
+		<sonar.projectKey>Eiza10_SI2</sonar.projectKey>
+		<sonar.login>461b78ef0e191dc8f30d395643f46aeade766cbf</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
