@@ -113,7 +113,6 @@ public class createDriverBDBlackTest {
 		String password = "987";
 		
 		Driver driver = null;
-		
 		try {
 			sut.open();
 			driver = sut.createDriver(email, name, password);
@@ -121,8 +120,6 @@ public class createDriverBDBlackTest {
 			
 			assertNull(driver);
 			
-		} catch (UserAlreadyExistException e) {
-			fail();
 		} catch (Exception e) {
 			fail();
 		} 
@@ -145,8 +142,6 @@ public class createDriverBDBlackTest {
 			
 			assertNull(driver);
 			
-		} catch (UserAlreadyExistException e) {
-			fail();
 		} catch (Exception e) {
 			fail();
 		} finally {
@@ -173,11 +168,9 @@ public class createDriverBDBlackTest {
 			sut.open();
 			driver = sut.createDriver(email, name, password);
 			sut.close();
-			
+
 			assertNull(driver);
 			
-		} catch (UserAlreadyExistException e) {
-			fail();
 		} catch (Exception e) {
 			fail();
 		} finally {

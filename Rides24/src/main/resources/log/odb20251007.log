@@ -1,0 +1,840 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:27:46 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 358-363)
+
+[2025-10-07 14:27:46 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 22896@Vivobook-ASUS
+
+[2025-10-07 14:27:46 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:27:46 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:27:46 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:27:46 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:27:46 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:27:46 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:27:46 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:27:46 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:27:46 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:34:53 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 364-365)
+
+[2025-10-07 14:34:54 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 16520@Vivobook-ASUS
+
+[2025-10-07 14:34:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:34:54 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:34:54 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:34:54 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:34:54 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:34:54 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:34:54 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:34:54 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:34:54 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:35:57 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 366-367)
+
+[2025-10-07 14:35:57 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 17728@Vivobook-ASUS
+
+[2025-10-07 14:35:58 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:35:58 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:35:58 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:35:58 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:35:58 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:35:58 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:35:58 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:35:58 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:35:58 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:38:28 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 368-369)
+
+[2025-10-07 14:38:28 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 5156@Vivobook-ASUS
+
+[2025-10-07 14:38:28 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:38:28 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:38:28 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:38:28 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:38:28 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:38:28 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:38:28 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:38:28 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:38:28 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:43:54 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 370-371)
+
+[2025-10-07 14:43:55 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 11468@Vivobook-ASUS
+
+[2025-10-07 14:43:55 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:43:55 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:43:55 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:43:55 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:43:55 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:43:55 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:43:55 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:43:55 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:43:55 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:44:25 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 372-377)
+
+[2025-10-07 14:44:25 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 26180@Vivobook-ASUS
+
+[2025-10-07 14:44:25 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:44:25 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:44:25 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:44:25 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:44:25 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:44:25 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:44:25 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:44:25 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:44:25 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:49:50 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 378-383)
+
+[2025-10-07 14:49:50 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 22768@Vivobook-ASUS
+
+[2025-10-07 14:49:50 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:49:50 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:49:50 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:49:50 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:49:51 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:49:51 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:49:51 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:49:51 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:49:51 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:50:50 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 384-389)
+
+[2025-10-07 14:50:50 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 5076@Vivobook-ASUS
+
+[2025-10-07 14:50:50 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:50:50 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:50:50 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:50:50 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:50:50 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:50:50 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:50:50 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:50:50 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:50:50 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:51:20 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 390-395)
+
+[2025-10-07 14:51:20 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 16996@Vivobook-ASUS
+
+[2025-10-07 14:51:20 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:51:20 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:51:20 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:51:20 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:51:20 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:51:20 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:51:20 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:51:20 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:51:20 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:52:36 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 396-401)
+
+[2025-10-07 14:52:36 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 20652@Vivobook-ASUS
+
+[2025-10-07 14:52:36 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:52:36 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:52:36 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:52:36 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:52:36 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:52:36 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:52:36 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:52:36 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:52:36 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:53:44 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 402-407)
+
+[2025-10-07 14:53:44 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 16788@Vivobook-ASUS
+
+[2025-10-07 14:53:44 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:53:44 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:53:44 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:53:44 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:53:44 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:53:44 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:53:44 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:53:44 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:53:44 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:54:16 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 408-413)
+
+[2025-10-07 14:54:16 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 2436@Vivobook-ASUS
+
+[2025-10-07 14:54:16 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:54:16 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:54:16 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:54:16 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:54:16 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:54:16 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:54:16 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:54:16 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:54:16 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:54:54 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 414-419)
+
+[2025-10-07 14:54:54 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 18612@Vivobook-ASUS
+
+[2025-10-07 14:54:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:54:54 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:54:54 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:54:54 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:54:54 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:54:54 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:54:54 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:54:54 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:54:54 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:56:00 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 420-421)
+
+[2025-10-07 14:56:00 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 16076@Vivobook-ASUS
+
+[2025-10-07 14:56:00 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:56:00 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:56:00 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:56:00 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:56:00 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:56:00 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:56:00 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:56:00 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:56:00 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:56:35 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 422-427)
+
+[2025-10-07 14:56:35 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 10484@Vivobook-ASUS
+
+[2025-10-07 14:56:35 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:56:35 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:56:35 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:56:35 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:56:35 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:56:35 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:56:35 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:56:35 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:56:35 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:56:51 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 428-433)
+
+[2025-10-07 14:56:51 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 18840@Vivobook-ASUS
+
+[2025-10-07 14:56:51 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:56:51 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:56:51 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:56:51 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:56:51 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:56:51 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:56:51 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:56:51 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:56:51 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:57:26 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 434-439)
+
+[2025-10-07 14:57:26 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 18080@Vivobook-ASUS
+
+[2025-10-07 14:57:26 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:57:26 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:57:26 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:57:26 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:57:26 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:57:26 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:57:26 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:57:26 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:57:26 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:58:01 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 440-445)
+
+[2025-10-07 14:58:01 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 23824@Vivobook-ASUS
+
+[2025-10-07 14:58:01 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:58:01 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:58:01 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:58:01 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:58:01 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:58:01 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:58:01 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:58:01 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:58:01 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 14:58:38 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 446-451)
+
+[2025-10-07 14:58:38 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 4408@Vivobook-ASUS
+
+[2025-10-07 14:58:38 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 14:58:38 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 14:58:38 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 14:58:38 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 14:58:38 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 14:58:38 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 14:58:38 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 14:58:38 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 14:58:38 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 15:00:45 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 452-457)
+
+[2025-10-07 15:00:45 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 20204@Vivobook-ASUS
+
+[2025-10-07 15:00:45 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 15:00:45 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 15:00:45 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 15:00:45 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 15:00:45 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 15:00:45 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 15:00:45 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 15:00:45 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 15:00:45 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 15:01:58 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 458-459)
+
+[2025-10-07 15:01:58 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 4396@Vivobook-ASUS
+
+[2025-10-07 15:01:58 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 15:01:58 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 15:01:58 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 15:01:58 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 15:01:58 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 15:01:58 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 15:01:58 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 15:01:58 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 15:01:58 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 15:02:22 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 460-461)
+
+[2025-10-07 15:02:22 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 5040@Vivobook-ASUS
+
+[2025-10-07 15:02:22 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 15:02:22 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 15:02:22 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 15:02:22 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 15:02:22 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 15:02:22 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 15:02:22 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 15:02:22 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 15:02:22 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 15:02:55 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 462-463)
+
+[2025-10-07 15:02:55 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 3000@Vivobook-ASUS
+
+[2025-10-07 15:02:55 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 15:02:55 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 15:02:55 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 15:02:55 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 15:02:55 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 15:02:55 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 15:02:55 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 15:02:55 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 15:02:55 #11 type] 
+Type domain.Admin is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-10-07 15:17:33 #1 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' has been recovered (tr. 464-465)
+
+[2025-10-07 15:17:33 #2 store] 
+Database 'C:\Users\Haritz\Desktop\UNI\4.urtea\SI2\SI2\Rides24\src\main\resources\rides.temp' is opened by 23968@Vivobook-ASUS
+
+[2025-10-07 15:17:33 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-10-07 15:17:33 #4 type] 
+Type domain.Complaint is not enhanced.
+
+[2025-10-07 15:17:33 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2025-10-07 15:17:33 #6 type] 
+Type domain.Car is not enhanced.
+
+[2025-10-07 15:17:33 #7 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-10-07 15:17:34 #8 type] 
+Type domain.Ride is not enhanced.
+
+[2025-10-07 15:17:34 #9 type] 
+Type domain.Traveler is not enhanced.
+
+[2025-10-07 15:17:34 #10 type] 
+Type domain.Alert is not enhanced.
+
+[2025-10-07 15:17:34 #11 type] 
+Type domain.Admin is not enhanced.
+

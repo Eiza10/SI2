@@ -27,26 +27,31 @@ public class createDriverBDWhiteTest {
 	// Sarrera: null, "Driver Gonzalez", "135"
 	// Testak null itzuli behar du
 	public void test1() {
-		Driver driver = null;
-		try {
-			
-			String email = null;
-			String name = "Driver Gonzalez";
-			String password = "135";
-			
-			sut.open();
-			driver = sut.createDriver(email, name, password);
-			
-			// Verificar los resultados
-			assertNull(driver);
-			
-		} catch (UserAlreadyExistException e) {
-			fail();
-		} catch (Exception e) {
-			fail();
-		} finally {
-			sut.close();
-		}
+	    Driver driver = null;
+	    String email = null;
+	    String name = "Driver Gonzalez";
+	    String password = "135";
+	    
+	    try {
+	        sut.open();
+	        driver = sut.createDriver(email, name, password);
+	        sut.close();
+
+	        assertNull(driver);
+	        
+	    } catch (Exception e) {
+	    	e.printStackTrace();
+	        fail();
+	    } finally {
+	        // Datubasetik ezabatu sortuz gero
+	        testDA.open();
+	        if (driver != null && driver.getEmail() != null) {
+	            if (testDA.existDriver(driver.getEmail())) {
+	                testDA.removeDriver(driver.getEmail());
+	            }
+	        }
+	        testDA.close();
+	    }
 	}
 	
 	@Test
